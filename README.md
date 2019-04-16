@@ -87,7 +87,7 @@
 类似演示地址其中 GitHub-Laziji 为我的用户名
 
 
-现在 ```https://你的用户名.github.io``` 就是你的个人博客了,例如[https://github-laziji.github.io][1]
+现在 ```https://你的用户名.github.io``` 就是你的个人博客了,例如[https://xuduofeng.github.io][1]
 
 
 
@@ -103,6 +103,6 @@
 
 
 
-  [1]: https://github-laziji.github.io
+  [1]: https://xuduofeng.github.io
   [2]: https://github.com/GitHub-Laziji/GitHub-Laziji.github.io
   [3]: https://github.com/GitHub-Laziji/vblog
